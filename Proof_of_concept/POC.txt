@@ -1,0 +1,3 @@
+https://docs.nlpcloud.com/#sentence-dependencies
+https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english?text=I+like+you.+I+love+you
+https://nlpcloud.com/fr/nlp-sentiment-analysis-api.html
