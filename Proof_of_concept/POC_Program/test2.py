@@ -1,4 +1,4 @@
-total = 0
+﻿total = 0
 def load_list(x, path_list='list.txt'):
     '''Open the lexic and put it in a list '''
     content_list_split = []

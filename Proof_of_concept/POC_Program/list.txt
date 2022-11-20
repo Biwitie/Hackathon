@@ -1364,6 +1364,7 @@ irrésolu,-2
 irresponsable,2
 irréversible,-1
 irritant,-3
+irritable, -3
 irrité,-3
 irritant,-3
 isolé,-1
@@ -2211,6 +2212,7 @@ tard,-2
 Larmes,-2
 Appeld’offres,2
 Tendu,-2
+tendu,-2
 tension,-1
 terrible,-3
 terriblement,-3
@@ -2472,6 +2474,7 @@ oui,1
 Jeune,2
 beurk,-2
 délicieux,3
+quasiment, -2
 Zélote,-2
 Zélotes,-2
 Zélé,2
