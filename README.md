@@ -12,5 +12,5 @@ plus précis sur la maladie.
 
 Par la suite un suvie personnalisé sera effectué grâce a des qcm a la demande du psychiatre.
 
-L'IA se concentera sur un lexic de psychiatrie et une compréhension des émotions humaines.
+L'IA se concentrera sur un lexic de psychiatrie et une compréhension des émotions humaines.
 
